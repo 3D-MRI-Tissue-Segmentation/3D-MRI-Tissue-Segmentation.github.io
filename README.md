@@ -80,7 +80,7 @@ Albert Ugwudike, Joe Arrowsmith, Joonsu Gha, Kamal Shah, Lapo Rastrelli, Olivia 
 
 Training Loss | Training Progress
 :------------:|:---------------------------:
-![small-highway-less-loss](https://octodex.github.com/results/3unet_vs_vnet_baseline/small_highwayless_train_result_2020_03_17-08_07_29.png) | ![small-highway-less-progress](https://Knee-Deep-in-MRI.github.com/results/3unet_vs_vnet_baseline/small_highwayless_progress.gif)
+![small-highway-less-loss](https://octodex.github.com/results/3unet_vs_vnet_baseline/small_highwayless_train_result_2020_03_17-08_07_29.png) | ![small-highway-less-progress](https://Knee-Deep-in-MRI.github.io/results/3unet_vs_vnet_baseline/small_highwayless_progress.gif)
 
 
 <br />
