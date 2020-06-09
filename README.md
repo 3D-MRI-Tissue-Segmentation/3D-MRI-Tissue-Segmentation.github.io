@@ -76,7 +76,7 @@ Albert Ugwudike, Joe Arrowsmith, Joonsu Gha, Kamal Shah, Lapo Rastrelli, Olivia 
 | Small Relative 3D UNet    | (160,160,160),(3) | 0.828 | 0.889    | 90.1            |
 | Small VNet                | (160,160,160)     | 0.371 | 0.342    | 89.5            |
 
-#### Small 3D Unet Highwayless (160,160,160) urca
+#### Small 3D Unet Highwayless (160,160,160)
 
 Training Loss | Training Progress
 :------------:|:---------------------------:
@@ -89,7 +89,7 @@ Training Loss | Training Progress
 
 Training Loss | Training Progress
 :------------:|:---------------------------:
-![small-3d-unet-loss](results/3unet_vs_vnet_baseline/small_3dunet_train_result_2020_03_17-09_34_10.png "Small 3D Unet Loss") | ![small-3d-unet-progress](results/3unet_vs_vnet_baseline/small_3dunet_progress.gif "Small 3D Unet Progress")
+![small-3d-unet-loss](https://github.com/Knee-Deep-in-MRI/Knee-Deep-in-MRI.github.io/blob/master/results/3unet_vs_vnet_baseline%20/small_3dunet_train_result_2020_03_17-09_34_10.png "Small 3D Unet Loss") | ![small-3d-unet-progress](https://github.com/Knee-Deep-in-MRI/Knee-Deep-in-MRI.github.io/blob/master/results/3unet_vs_vnet_baseline%20/small_3dunet_progress.gif "Small 3D Unet Progress")
 
 
 <br />
@@ -98,7 +98,7 @@ Training Loss | Training Progress
 
 Training Loss | Training Progress
 :------------:|:---------------------------:
-![small-relative-3d-unet-loss](results/3unet_vs_vnet_baseline/small_relative_3dunet_train_result_2020_03_17-11_03_20.png "Small Relative 3D Unet Loss") | ![small-relative-3d-unet-progress](results/3unet_vs_vnet_baseline/small_relative_3dunet_progress.gif "Small Relative 3D Unet Progress")
+![small-relative-3d-unet-loss](https://github.com/Knee-Deep-in-MRI/Knee-Deep-in-MRI.github.io/blob/master/results/3unet_vs_vnet_baseline%20/small_relative_3dunet_train_result_2020_03_17-11_03_20.png "Small Relative 3D Unet Loss") | ![small-relative-3d-unet-progress](https://github.com/Knee-Deep-in-MRI/Knee-Deep-in-MRI.github.io/blob/master/results/3unet_vs_vnet_baseline%20/small_relative_3dunet_progress.gif "Small Relative 3D Unet Progress")
 
 
 <br />
@@ -107,7 +107,7 @@ Training Loss | Training Progress
 
 Training Loss | Training Progress
 :------------:|:---------------------------:
-![small-vnet-loss](results/3unet_vs_vnet_baseline/small_vnet_train_result_2020_03_17-12_37_32.png "Small VNet Loss") | ![small-vnet-progress](results/3unet_vs_vnet_baseline/small_vnet_progress.gif "Small VNet Progress")
+![small-vnet-loss](https://github.com/Knee-Deep-in-MRI/Knee-Deep-in-MRI.github.io/blob/master/results/3unet_vs_vnet_baseline%20/small_vnet_train_result_2020_03_17-12_37_32.png "Small VNet Loss") | ![small-vnet-progress](https://github.com/Knee-Deep-in-MRI/Knee-Deep-in-MRI.github.io/blob/master/results/3unet_vs_vnet_baseline%20/small_vnet_progress.gif "Small VNet Progress")
 
 
 ---
