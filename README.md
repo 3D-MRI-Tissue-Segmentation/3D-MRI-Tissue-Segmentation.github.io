@@ -4,8 +4,9 @@ You can use the [editor on GitHub](https://github.com/Knee-Deep-in-MRI/Knee-Deep
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Phat plotly graphz here pleez 
+### 3D Segmentation plot
 {% include segmentation_plotly.html %}
+{% include seg.html %}
 
 ### Markdown
 
