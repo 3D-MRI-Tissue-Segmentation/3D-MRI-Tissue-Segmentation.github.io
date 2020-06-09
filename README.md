@@ -1,30 +1,19 @@
 # Pietro is a god
 
 
-
+<!--
 # Content
 ## Showcase best
-
 ### Best 2D + 3D
-
 ## Abstract + Motivation
-
 ## 2D Results
-
 ### Model Comparison
-
 ## 3D Results
-
 ### Model Comparison
-
 ## Augmentation Effect
-
 ## Summary of high level findings + Future improvements
 
 
-
-
-# Automated Tissue Segmentation from High-Resolution 3D Steady-State MRI with Deep Learning
 
 Albert Ugwudike, Joe Arrowsmith, Joonsu Gha, Kamal Shah, Lapo Rastrelli, Olivia Gallupova, Pietro Vitiello
 
