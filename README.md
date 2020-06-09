@@ -1,7 +1,6 @@
+<!--
 # Pietro is a god
 
-
-<!--
 # Content
 ## Showcase best
 ### Best 2D + 3D
