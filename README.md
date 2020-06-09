@@ -1,5 +1,29 @@
 # Pietro is a god
 
+
+
+# Content
+## Showcase best
+
+### Best 2D + 3D
+
+## Abstract + Motivation
+
+## 2D Results
+
+### Model Comparison
+
+## 3D Results
+
+### Model Comparison
+
+## Augmentation Effect
+
+## Summary of high level findings + Future improvements
+
+
+
+
 You can use the [editor on GitHub](https://github.com/Knee-Deep-in-MRI/Knee-Deep-in-MRI.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
