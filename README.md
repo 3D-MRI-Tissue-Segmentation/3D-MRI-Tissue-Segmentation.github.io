@@ -6,6 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### 3D Segmentation plot
 {% include segmentation_plotly.html %}
+{% include seg.html %}
 
 ### Markdown
 
