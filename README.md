@@ -53,6 +53,17 @@ Albert Ugwudike, Joe Arrowsmith, Joonsu Gha, Kamal Shah, Lapo Rastrelli, Olivia 
 
 ---
 
+| 2D Models Implemented  | 3D Models Implemented |
+|------------------------|-----------------------|
+| [x] Vanilla UNet       | [x] 3D UNet           |
+| [x] Attention UNet     | [x] Relative 3D UNet  |
+| [x] Multi-res UNet     | [x] Slice 3D UNet     |
+| [x] R2_UNet            | [x] VNet              |
+| [x] R2_Attention UNet  | [x] Relative VNet     |
+| [ ] 100-layer Tiramisu | [x] Slice VNet        |
+| [ ] DeepLabv3+         |                       |
+
+
 ### 2D Models Implemented
 
 - [x] Vanilla UNet 
