@@ -76,7 +76,7 @@ Albert Ugwudike, Joe Arrowsmith, Joonsu Gha, Kamal Shah, Lapo Rastrelli, Olivia 
 | Small Relative 3D UNet    | (160,160,160),(3) | 0.828 | 0.889    | 90.1            |
 | Small VNet                | (160,160,160)     | 0.371 | 0.342    | 89.5            |
 
-#### Small 3D Unet Highwayless (160,160,160)
+#### Small 3D Unet Highwayless (160,160,160) lala
 
 Training Loss | Training Progress
 :------------:|:---------------------------:
