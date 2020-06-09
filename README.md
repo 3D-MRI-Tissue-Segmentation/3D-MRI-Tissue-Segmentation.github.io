@@ -183,7 +183,7 @@ python -m pytest --cov-report term-missing:skip-covered --cov=Segmentation && co
 
 ## How to view these results
 This can work as analysis
-Comoare the various models, theri convergence ecc.
+Compare the various models, their convergence ecc.
 
 ### Confusion Matrix
 
