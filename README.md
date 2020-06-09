@@ -6,7 +6,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### 3D Segmentation plot
 {% include segmentation_plotly.html %}
-{% include seg.html %}
 
 ### Markdown
 
@@ -55,33 +54,14 @@ Albert Ugwudike, Joe Arrowsmith, Joonsu Gha, Kamal Shah, Lapo Rastrelli, Olivia 
 
 | 2D Models Implemented  | 3D Models Implemented |
 |------------------------|-----------------------|
-| [x] Vanilla UNet       | [x] 3D UNet           |
-| [x] Attention UNet     | [x] Relative 3D UNet  |
-| [x] Multi-res UNet     | [x] Slice 3D UNet     |
-| [x] R2_UNet            | [x] VNet              |
-| [x] R2_Attention UNet  | [x] Relative VNet     |
-| [ ] 100-layer Tiramisu | [x] Slice VNet        |
-| [ ] DeepLabv3+         |                       |
+| Vanilla UNet           | 3D UNet               |
+| Attention UNet         | Relative 3D UNet      |
+| Multi-res UNet         | Slice 3D UNet         |
+| R2_UNet                | VNet                  |
+| R2_Attention UNet      | Relative VNet         |
+| 100-layer Tiramisu     | Slice VNet            |
+| DeepLabv3+             |                       |
 
-
-### 2D Models Implemented
-
-- [x] Vanilla UNet 
-- [x] Attention UNet
-- [x] Multi-res UNet
-- [x] R2_UNet
-- [x] R2_Attention UNet
-- [ ] 100-layer Tiramisu
-- [ ] DeepLabv3+ 
-
-### 3D Models Implemented
-
-- [x] 3D UNet
-- [x] Relative 3D UNet
-- [x] Slice 3D UNet
-- [x] VNet
-- [x] Relative VNet
-- [x] Slice VNet
 
 ---
 
