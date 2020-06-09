@@ -74,6 +74,18 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 Albert Ugwudike, Joe Arrowsmith, Joonsu Gha, Kamal Shah, Lapo Rastrelli, Olivia Gallupova, Pietro Vitiello
 
+## Our Project
+This will work as abstract
+
+## Why we do it
+This will work as motivation
+
+## Training 
+Here we can show the training pipeline
+
+## Segmentation requires specific srchitectures
+Here we can show the various architectures we have used an their diagrams
+
 ---
 
 | 2D Models Implemented  | 3D Models Implemented |
@@ -89,7 +101,8 @@ Albert Ugwudike, Joe Arrowsmith, Joonsu Gha, Kamal Shah, Lapo Rastrelli, Olivia 
 
 ---
 
-## Results
+## We are proud of our Results
+We can place here the bar graphs
 
 ### Baseline Comparision of 3D Methods
 
@@ -224,4 +237,21 @@ Unit-Testing and Unit-Test Converage
 
 python -m pytest --cov-report term-missing:skip-covered --cov=Segmentation && coverage html && open ./htmlcov.index.html
 ```
+
+## How to view these results
+This can work as analysis
+Comoare the various models, theri convergence ecc.
+
+### Confusion Matrix
+
+## What we have understood
+Here we can put our interpretation and key takeaways
+
+### Best models
+Here we can put the best 2D and 3D models using slice and volume visualization
+
+## What the future has to offer
+What we would like to improve and continue to work on
+
+## References
 
