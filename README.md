@@ -24,52 +24,6 @@
 
 
 
-You can use the [editor on GitHub](https://github.com/Knee-Deep-in-MRI/Knee-Deep-in-MRI.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### 3D Segmentation plot
-{% include segmentation_plotly.html %}
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Knee-Deep-in-MRI/Knee-Deep-in-MRI.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-
-
-
-
-
-
-
 # Automated Tissue Segmentation from High-Resolution 3D Steady-State MRI with Deep Learning
 
 Albert Ugwudike, Joe Arrowsmith, Joonsu Gha, Kamal Shah, Lapo Rastrelli, Olivia Gallupova, Pietro Vitiello
@@ -83,7 +37,7 @@ This will work as motivation
 ## Training 
 Here we can show the training pipeline
 
-## Segmentation requires specific srchitectures
+## Segmentation requires specific architectures
 Here we can show the various architectures we have used an their diagrams
 
 ---
@@ -254,4 +208,46 @@ Here we can put the best 2D and 3D models using slice and volume visualization
 What we would like to improve and continue to work on
 
 ## References
+
+
+
+# Default stuff to keep in case we needed anything
+You can use the [editor on GitHub](https://github.com/Knee-Deep-in-MRI/Knee-Deep-in-MRI.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### 3D Segmentation plot
+{% include segmentation_plotly.html %}
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Knee-Deep-in-MRI/Knee-Deep-in-MRI.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
