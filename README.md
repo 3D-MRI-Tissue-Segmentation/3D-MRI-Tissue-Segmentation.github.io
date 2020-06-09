@@ -76,11 +76,11 @@ Albert Ugwudike, Joe Arrowsmith, Joonsu Gha, Kamal Shah, Lapo Rastrelli, Olivia 
 | Small Relative 3D UNet    | (160,160,160),(3) | 0.828 | 0.889    | 90.1            |
 | Small VNet                | (160,160,160)     | 0.371 | 0.342    | 89.5            |
 
-#### Small 3D Unet Highwayless (160,160,160) cincin
+#### Small 3D Unet Highwayless (160,160,160)
 
 Training Loss | Training Progress
 :------------:|:---------------------------:
-![small-highway-less-loss](https://octodex.github.com/results/3unet_vs_vnet_baseline/small_highwayless_train_result_2020_03_17-08_07_29.png) | ![small-highway-less-progress](https://Knee-Deep-in-MRI.github.io/results/3unet_vs_vnet_baseline/small_highwayless_progress.gif)
+![small-highway-less-loss](https://octodex.github.com/results/3unet_vs_vnet_baseline/small_highwayless_train_result_2020_03_17-08_07_29.png) | ![small-highway-less-progress](https://github.com/Knee-Deep-in-MRI/Knee-Deep-in-MRI.github.io/blob/master/results/3unet_vs_vnet_baseline/small_highwayless_progress.gif?raw=True)
 
 
 <br />
