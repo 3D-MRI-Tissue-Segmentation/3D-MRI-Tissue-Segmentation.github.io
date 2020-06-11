@@ -13,10 +13,6 @@
 ## Summary of high level findings + Future improvements
 -->
 
-
-
-Albert Ugwudike, Joe Arrowsmith, Joonsu Gha, Kamal Shah, Lapo Rastrelli, Olivia Gallupova, Pietro Vitiello
-
 ## Our Project
 This will work as abstract
 
