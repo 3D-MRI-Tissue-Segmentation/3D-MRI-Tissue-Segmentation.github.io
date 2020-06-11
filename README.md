@@ -60,7 +60,7 @@ We can place here the bar graphs
 
 Training Loss | Training Progress
 :------------:|:---------------------------:
-![small-highway-less-loss](https://github.com/Knee-Deep-in-MRI/Knee-Deep-in-MRI.github.io/blob/master/results/3unet_vs_vnet_baseline%20/small_highwayless_train_result_2020_03_17-08_07_29.png?raw=True) | ![small-highway-less-progress](https://github.com/Knee-Deep-in-MRI/Knee-Deep-in-MRI.github.io/blob/master/results/3unet_vs_vnet_baseline%20/small_highwayless_progress.gif?raw=True)
+![small-highway-less-loss](https://github.com/Knee-Deep-in-MRI/Knee-Deep-in-MRI.github.io/blob/master/results/3unet_vs_vnet_baseline/small_highwayless_train_result_2020_03_17-08_07_29.png?raw=True) | ![small-highway-less-progress](https://github.com/Knee-Deep-in-MRI/Knee-Deep-in-MRI.github.io/blob/master/results/3unet_vs_vnet_baseline/small_highwayless_progress.gif?raw=True)
 
 
 <br />
@@ -69,7 +69,7 @@ Training Loss | Training Progress
 
 Training Loss | Training Progress
 :------------:|:---------------------------:
-![small-3d-unet-loss](https://github.com/Knee-Deep-in-MRI/Knee-Deep-in-MRI.github.io/blob/master/results/3unet_vs_vnet_baseline%20/small_3dunet_train_result_2020_03_17-09_34_10.png?raw=True "Small 3D Unet Loss") | ![small-3d-unet-progress](https://github.com/Knee-Deep-in-MRI/Knee-Deep-in-MRI.github.io/blob/master/results/3unet_vs_vnet_baseline%20/small_3dunet_progress.gif?raw=True "Small 3D Unet Progress")
+![small-3d-unet-loss](https://github.com/Knee-Deep-in-MRI/Knee-Deep-in-MRI.github.io/blob/master/results/3unet_vs_vnet_baseline/small_3dunet_train_result_2020_03_17-09_34_10.png?raw=True "Small 3D Unet Loss") | ![small-3d-unet-progress](https://github.com/Knee-Deep-in-MRI/Knee-Deep-in-MRI.github.io/blob/master/results/3unet_vs_vnet_baseline/small_3dunet_progress.gif?raw=True "Small 3D Unet Progress")
 
 
 <br />
@@ -78,7 +78,7 @@ Training Loss | Training Progress
 
 Training Loss | Training Progress
 :------------:|:---------------------------:
-![small-relative-3d-unet-loss](https://github.com/Knee-Deep-in-MRI/Knee-Deep-in-MRI.github.io/blob/master/results/3unet_vs_vnet_baseline%20/small_relative_3dunet_train_result_2020_03_17-11_03_20.png?raw=True "Small Relative 3D Unet Loss") | ![small-relative-3d-unet-progress](https://github.com/Knee-Deep-in-MRI/Knee-Deep-in-MRI.github.io/blob/master/results/3unet_vs_vnet_baseline%20/small_relative_3dunet_progress.gif?raw=True "Small Relative 3D Unet Progress")
+![small-relative-3d-unet-loss](https://github.com/Knee-Deep-in-MRI/Knee-Deep-in-MRI.github.io/blob/master/results/3unet_vs_vnet_baseline/small_relative_3dunet_train_result_2020_03_17-11_03_20.png?raw=True "Small Relative 3D Unet Loss") | ![small-relative-3d-unet-progress](https://github.com/Knee-Deep-in-MRI/Knee-Deep-in-MRI.github.io/blob/master/results/3unet_vs_vnet_baseline/small_relative_3dunet_progress.gif?raw=True "Small Relative 3D Unet Progress")
 
 
 <br />
@@ -87,7 +87,7 @@ Training Loss | Training Progress
 
 Training Loss | Training Progress
 :------------:|:---------------------------:
-![small-vnet-loss](https://github.com/Knee-Deep-in-MRI/Knee-Deep-in-MRI.github.io/blob/master/results/3unet_vs_vnet_baseline%20/small_vnet_train_result_2020_03_17-12_37_32.png?raw=True "Small VNet Loss") | ![small-vnet-progress](https://github.com/Knee-Deep-in-MRI/Knee-Deep-in-MRI.github.io/blob/master/results/3unet_vs_vnet_baseline%20/small_vnet_progress.gif?raw=True "Small VNet Progress")
+![small-vnet-loss](https://github.com/Knee-Deep-in-MRI/Knee-Deep-in-MRI.github.io/blob/master/results/3unet_vs_vnet_baseline/small_vnet_train_result_2020_03_17-12_37_32.png?raw=True "Small VNet Loss") | ![small-vnet-progress](https://github.com/Knee-Deep-in-MRI/Knee-Deep-in-MRI.github.io/blob/master/results/3unet_vs_vnet_baseline/small_vnet_progress.gif?raw=True "Small VNet Progress")
 
 
 ---
