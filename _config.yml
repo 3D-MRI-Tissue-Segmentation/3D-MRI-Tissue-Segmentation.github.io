@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
 title: [Deep Segmentation]
 description: [Automated cartilage segmentation from High-Resolution 3D Steady-State knee MR images using Deep Learning models]
-by: [Joe Arrowsmith, Joonsu Gha, Lapo Rastrelli, Olivia Gallupova, Pietro Vitiello]
+by: ['Joe Arrowsmith, Joonsu Gha, Lapo Rastrelli, Olivia Gallupova, Pietro Vitiello']
