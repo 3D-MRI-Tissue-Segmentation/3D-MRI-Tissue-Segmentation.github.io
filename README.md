@@ -204,6 +204,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### 3D Segmentation plot
 {% include segmentation_plotly.html %}
 
+
+### Talbe plotly
+{% include plotly_table.html %}
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
