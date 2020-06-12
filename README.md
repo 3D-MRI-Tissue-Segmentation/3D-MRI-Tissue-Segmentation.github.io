@@ -1,54 +1,29 @@
-## Joonsu is a god
+<!--
+# Pietro is a god
 
-You can use the [editor on GitHub](https://github.com/Knee-Deep-in-MRI/Knee-Deep-in-MRI.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Content
+## Showcase best
+### Best 2D + 3D
+## Abstract + Motivation
+## 2D Results
+### Model Comparison
+## 3D Results
+### Model Comparison
+## Augmentation Effect
+## Summary of high level findings + Future improvements
+-->
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Our Project
+This will work as abstract
 
-### 3D Segmentation plot
-{% include segmentation_plotly.html %}
+## Why we do it
+This will work as motivation
 
-### Markdown
+## Training 
+Here we can show the training pipeline
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Knee-Deep-in-MRI/Knee-Deep-in-MRI.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-
-
-
-
-
-
-
-# Automated Tissue Segmentation from High-Resolution 3D Steady-State MRI with Deep Learning
-
-Albert Ugwudike, Joe Arrowsmith, Joonsu Gha, Kamal Shah, Lapo Rastrelli, Olivia Gallupova, Pietro Vitiello
+## Segmentation requires specific architectures
+Here we can show the various architectures we have used an their diagrams
 
 ---
 
@@ -65,7 +40,8 @@ Albert Ugwudike, Joe Arrowsmith, Joonsu Gha, Kamal Shah, Lapo Rastrelli, Olivia 
 
 ---
 
-## Results
+## We are proud of our Results
+We can place here the bar graphs
 
 ### Baseline Comparision of 3D Methods
 
@@ -80,7 +56,7 @@ Albert Ugwudike, Joe Arrowsmith, Joonsu Gha, Kamal Shah, Lapo Rastrelli, Olivia 
 
 Training Loss | Training Progress
 :------------:|:---------------------------:
-![small-highway-less-loss](results/3unet_vs_vnet_baseline/small_highwayless_train_result_2020_03_17-08_07_29.png "Small 3D Unet Highwayless Loss") | ![small-highway-less-progress](results/3unet_vs_vnet_baseline/small_highwayless_progress.gif "Small 3D Unet Highwayless Progress")
+![small-highway-less-loss](https://github.com/Knee-Deep-in-MRI/Knee-Deep-in-MRI.github.io/blob/master/results/3unet_vs_vnet_baseline/small_highwayless_train_result_2020_03_17-08_07_29.png?raw=True) | ![small-highway-less-progress](https://github.com/Knee-Deep-in-MRI/Knee-Deep-in-MRI.github.io/blob/master/results/3unet_vs_vnet_baseline/small_highwayless_progress.gif?raw=True)
 
 
 <br />
@@ -89,7 +65,7 @@ Training Loss | Training Progress
 
 Training Loss | Training Progress
 :------------:|:---------------------------:
-![small-3d-unet-loss](results/3unet_vs_vnet_baseline/small_3dunet_train_result_2020_03_17-09_34_10.png "Small 3D Unet Loss") | ![small-3d-unet-progress](results/3unet_vs_vnet_baseline/small_3dunet_progress.gif "Small 3D Unet Progress")
+![small-3d-unet-loss](https://github.com/Knee-Deep-in-MRI/Knee-Deep-in-MRI.github.io/blob/master/results/3unet_vs_vnet_baseline/small_3dunet_train_result_2020_03_17-09_34_10.png?raw=True "Small 3D Unet Loss") | ![small-3d-unet-progress](https://github.com/Knee-Deep-in-MRI/Knee-Deep-in-MRI.github.io/blob/master/results/3unet_vs_vnet_baseline/small_3dunet_progress.gif?raw=True "Small 3D Unet Progress")
 
 
 <br />
@@ -98,7 +74,7 @@ Training Loss | Training Progress
 
 Training Loss | Training Progress
 :------------:|:---------------------------:
-![small-relative-3d-unet-loss](results/3unet_vs_vnet_baseline/small_relative_3dunet_train_result_2020_03_17-11_03_20.png "Small Relative 3D Unet Loss") | ![small-relative-3d-unet-progress](results/3unet_vs_vnet_baseline/small_relative_3dunet_progress.gif "Small Relative 3D Unet Progress")
+![small-relative-3d-unet-loss](https://github.com/Knee-Deep-in-MRI/Knee-Deep-in-MRI.github.io/blob/master/results/3unet_vs_vnet_baseline/small_relative_3dunet_train_result_2020_03_17-11_03_20.png?raw=True "Small Relative 3D Unet Loss") | ![small-relative-3d-unet-progress](https://github.com/Knee-Deep-in-MRI/Knee-Deep-in-MRI.github.io/blob/master/results/3unet_vs_vnet_baseline/small_relative_3dunet_progress.gif?raw=True "Small Relative 3D Unet Progress")
 
 
 <br />
@@ -107,7 +83,7 @@ Training Loss | Training Progress
 
 Training Loss | Training Progress
 :------------:|:---------------------------:
-![small-vnet-loss](results/3unet_vs_vnet_baseline/small_vnet_train_result_2020_03_17-12_37_32.png "Small VNet Loss") | ![small-vnet-progress](results/3unet_vs_vnet_baseline/small_vnet_progress.gif "Small VNet Progress")
+![small-vnet-loss](https://github.com/Knee-Deep-in-MRI/Knee-Deep-in-MRI.github.io/blob/master/results/3unet_vs_vnet_baseline/small_vnet_train_result_2020_03_17-12_37_32.png?raw=True "Small VNet Loss") | ![small-vnet-progress](https://github.com/Knee-Deep-in-MRI/Knee-Deep-in-MRI.github.io/blob/master/results/3unet_vs_vnet_baseline/small_vnet_progress.gif?raw=True "Small VNet Progress")
 
 
 ---
@@ -200,4 +176,63 @@ Unit-Testing and Unit-Test Converage
 
 python -m pytest --cov-report term-missing:skip-covered --cov=Segmentation && coverage html && open ./htmlcov.index.html
 ```
+
+## How to view these results
+This can work as analysis
+Compare the various models, their convergence ecc.
+
+### Confusion Matrix
+
+## What we have understood
+Here we can put our interpretation and key takeaways
+
+### Best models
+Here we can put the best 2D and 3D models using slice and volume visualization
+
+## What the future has to offer
+What we would like to improve and continue to work on
+
+## References
+
+
+
+# Default stuff to keep in case we needed anything
+You can use the [editor on GitHub](https://github.com/Knee-Deep-in-MRI/Knee-Deep-in-MRI.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### 3D Segmentation plot
+{% include segmentation_plotly.html %}
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Knee-Deep-in-MRI/Knee-Deep-in-MRI.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
