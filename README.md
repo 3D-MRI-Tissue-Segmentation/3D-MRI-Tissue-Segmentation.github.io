@@ -40,8 +40,20 @@ Here we can show the various architectures we have used an their diagrams
 
 ---
 
-## We are proud of our Results
+## We are proud of our Results (preview... leave em hanging till the end)
 We can place here the bar graphs
+
+## Architecture specs
+### UNet
+### UNet++
+### VNet
+### TIRAMISU
+### DEEPLABV
+
+## Failed 
+### R2-UNet
+
+
 
 ### Baseline Comparision of 3D Methods
 
