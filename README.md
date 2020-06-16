@@ -2,6 +2,7 @@
 # Pietro is a god
 
 # Content
+## Project Description
 ## Showcase best
 ### Best 2D + 3D
 ## Abstract + Motivation
@@ -16,6 +17,8 @@
 ## The Team
 We are five bioengineering students at Imperial College London.
 
+## Best 2D + 3D volume & slice pics as header
+
 ## Our Project
 This will work as abstract
 
@@ -25,8 +28,19 @@ This will work as motivation
 ## Training 
 Here we can show the training pipeline
 
+
+
 ## Segmentation requires specific architectures
 Here we can show the various architectures we have used an their diagrams
+
+Architecture specs figures + captions
+### UNet
+### UNet++
+### VNet
+### TIRAMISU
+### DEEPLABV
+(Failed:)
+### R2-UNet
 
 ---
 
@@ -43,9 +57,25 @@ Here we can show the various architectures we have used an their diagrams
 
 ---
 
-## We are proud of our Results
-We can place here the bar graphs
+## We are proud of our Results (preview... leave em hanging till the end)
+We can place here the 
+- bar graphs
+- 3D plotly volume with slider over model evolution
 
+
+## Comparison of performance
+### Confusion matrices
+
+## Discussion of augmentation methods (Analysis from poster)
+
+
+
+
+## Conclusion + Key takeaways (from poster)
+
+
+
+## Potentially cool but need update
 ### Baseline Comparision of 3D Methods
 
 | Model                     | Input Shape       | Loss  | Val Loss | Duration / Min  |
@@ -206,6 +236,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### 3D Segmentation plot
 {% include segmentation_plotly.html %}
+
+
+### Talbe plotly
+{% include plotly_table.html %}
 
 ### Markdown
 
