@@ -4,7 +4,7 @@ header {
     height: 75vh;
     min-height: 25rem;
     width: 100%;
-    background: url('../../results/gif_header/input_volume_gif.gif');
+    background-image: url('../../results/gif_header/input_volume_gif.gif');
     /* overflow: hidden; */
   }
   
