@@ -1,10 +1,10 @@
 header {
     position: relative;
-    /* background-color: black; */
-    height: 75vh;
+    background-color: black;
+    height: 100vh;
     min-height: 25rem;
     width: 100%;
-    background-image: url('../../results/gif_header/input_volume_gif.gif');
+    /* background-image: url('../../results/gif_header/input_volume_gif.gif'); */
     /* overflow: hidden; */
   }
   
