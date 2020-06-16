@@ -2,6 +2,7 @@
 # Pietro is a god
 
 # Content
+## Project Description
 ## Showcase best
 ### Best 2D + 3D
 ## Abstract + Motivation
@@ -13,6 +14,8 @@
 ## Summary of high level findings + Future improvements
 -->
 
+## Best 2D + 3D volume & slice pics as header
+
 ## Our Project
 This will work as abstract
 
@@ -22,8 +25,19 @@ This will work as motivation
 ## Training 
 Here we can show the training pipeline
 
+
+
 ## Segmentation requires specific architectures
 Here we can show the various architectures we have used an their diagrams
+
+Architecture specs figures + captions
+### UNet
+### UNet++
+### VNet
+### TIRAMISU
+### DEEPLABV
+(Failed:)
+### R2-UNet
 
 ---
 
@@ -41,20 +55,24 @@ Here we can show the various architectures we have used an their diagrams
 ---
 
 ## We are proud of our Results (preview... leave em hanging till the end)
-We can place here the bar graphs
+We can place here the 
+- bar graphs
+- 3D plotly volume with slider over model evolution
 
-## Architecture specs
-### UNet
-### UNet++
-### VNet
-### TIRAMISU
-### DEEPLABV
 
-## Failed 
-### R2-UNet
+## Comparison of performance
+### Confusion matrices
+
+## Discussion of augmentation methods (Analysis from poster)
 
 
 
+
+## Conclusion + Key takeaways (from poster)
+
+
+
+## Potentially cool but need update
 ### Baseline Comparision of 3D Methods
 
 | Model                     | Input Shape       | Loss  | Val Loss | Duration / Min  |
