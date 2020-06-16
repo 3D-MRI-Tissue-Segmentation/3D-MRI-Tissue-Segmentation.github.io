@@ -13,6 +13,9 @@
 ## Summary of high level findings + Future improvements
 -->
 
+## The Team
+We are five bioengineering students at Imperial College London.
+
 ## Our Project
 This will work as abstract
 
