@@ -4,10 +4,15 @@
     height: 100vh;
     min-height: 25rem;
     width: 100%;
+    /* overflow: hidden; */
+  }
+
+  .header_back_image {
     background-image: url('../../results/gif_header/input_volume_gif.gif');
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
     /* background-attachment: fixed; */
-    /* overflow: hidden; */
   }
   
+
