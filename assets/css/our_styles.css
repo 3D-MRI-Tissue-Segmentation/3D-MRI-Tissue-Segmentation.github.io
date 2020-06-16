@@ -1,10 +1,10 @@
-header {
+.page-header {
     position: relative;
-    background-color: black;
+    /* background-color: black; */
     height: 100vh;
     min-height: 25rem;
     width: 100%;
-    /* background-image: url('../../results/gif_header/input_volume_gif.gif'); */
+    background: url('../../results/gif_header/input_volume_gif.gif') no-repeat center center fixed;
     /* overflow: hidden; */
   }
   
