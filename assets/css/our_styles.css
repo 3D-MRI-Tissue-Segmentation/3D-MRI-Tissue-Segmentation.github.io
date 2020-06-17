@@ -19,6 +19,11 @@
 
 /* background blur */
 .page-header .overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
     filter: blur(5px);
     -webkit-filter: blur(2px);
 }
