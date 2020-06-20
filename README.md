@@ -15,23 +15,23 @@
 -->
 
 ## The Team
-We are five bioengineering students at Imperial College London.
+Five students at Imperial College London following the third year of Biomedical Engineering. The project has been developed under the supervision of Dr. Neal Bangerter.
 
 ## Best 2D + 3D volume & slice pics as header
 
 ## Our Project
-This will work as abstract
+Cartilage segmentation plays a crucial role in tracking through time the effectiveness of drug treatment on osteoarthritis. For this purpose, Magnetic Resonance Imaging (MRI) is commonly used [1], allowing for a non-invasive approach.  However, manual segmentation of the latter is a labor-intensive process [2]. Automating this task would alleviate the practical obstacles to acquiring patient data and may soon become reality as novel deep learning approaches increasingly facilitate automatic image segmentation, potentially saving hospitals valuable resources [2, 3].
 
 ## Why we do it
 This will work as motivation
 
 ## Training 
-Here we can show the training pipeline
+We crop the dataset to a standard size of (160, 288, 288) to remove the redundant background class region and artifacts. From this volume, the dataset is cropped to match the models input dimensions and geometric transformations are applied. We input the MRI scans and their corresponding ground-truth labels and compare the performance of our models using metrics shown in Figure 1 and model architectures shown in Figure 2. Following training, the predictions (slices or sub-volumes) are stitched back together to provide a prediction across whole volume. Multi-class segmentation entails the classification of multiple cartilage types: femoral, medial tibial, lateral tibial and patellar cartilage and lateral and medial meniscus. Binary segmentation merges these cartilages into one class, so the model is predicting if a voxel belongs to Cartilage or Background. 
 
 
 
 ## Segmentation requires specific architectures
-Here we can show the various architectures we have used an their diagrams
+Here we can show the various architectures we have used and their diagrams
 
 Architecture specs figures + captions
 ### UNet
