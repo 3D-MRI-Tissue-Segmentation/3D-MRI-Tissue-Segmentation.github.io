@@ -9,21 +9,21 @@
 }
 
 /* background styling */
-.bg-img{
+/* .bg-img{
   width: 100%;
   height: auto;
   filter: blur(5px);
   -webkit-filter: blur(2px);
   z-index: 0;
-}
+} */
 
-/* .page-header{
+.page-header::before{
     background-image: url('../../results/gif_header/input_volume_gif_collage.gif');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
-} */
+}
 
 /* background blur */
 /* .page-header:not(.title_text){
