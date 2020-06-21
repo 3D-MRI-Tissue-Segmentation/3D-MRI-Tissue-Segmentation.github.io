@@ -17,7 +17,7 @@
   z-index: 0;
 } */
 
-.page-header{
+.page-header {
     background-image: url('../../results/gif_header/input_volume_gif_collage.gif');
     background-repeat: no-repeat;
     background-size: cover;
@@ -26,7 +26,7 @@
     z-index: 0;
 }
 
-.overlay{
+.title_text::before{
     filter: blur(2px);
     -webkit-filter: blur(2px);
 }
