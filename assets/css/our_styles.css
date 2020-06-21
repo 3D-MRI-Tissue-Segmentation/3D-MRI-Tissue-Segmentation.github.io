@@ -26,7 +26,7 @@
     z-index: 0;
 }
 
-.title_text::before {
+:not(.page-header .title_text) {
     filter: blur(10px);
     -webkit-filter: blur(10px);
 }
