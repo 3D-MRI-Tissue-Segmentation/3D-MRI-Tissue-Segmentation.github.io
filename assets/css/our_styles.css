@@ -50,7 +50,10 @@
 } */
 
 .title_text{
-    position:absolute;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    text-align: center;
     background-color: rgb(0,0,0); /* Fallback color */
     background-color: rgba(0,0,0, 0.5); /* Black w/opacity/see-through */
     transform: translate(0%, 50%);
