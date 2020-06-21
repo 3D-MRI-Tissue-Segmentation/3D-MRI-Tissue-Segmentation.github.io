@@ -26,7 +26,7 @@
     z-index: 0;
 }
 
-.title_text::before{
+.title_text::before {
     filter: blur(2px);
     -webkit-filter: blur(2px);
 }
