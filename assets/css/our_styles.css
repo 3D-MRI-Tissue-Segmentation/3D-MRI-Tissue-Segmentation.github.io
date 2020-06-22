@@ -1,7 +1,15 @@
 /* general styling */
-.page-header {
+.header_ {
     position: relative;
     background-color: black;
+    height: 100vh;
+    min-height: 25rem;
+    width: 100%;
+    /* overflow: hidden; */
+}
+
+.page-header {
+    /* position: relative; */
     height: 100vh;
     min-height: 25rem;
     width: 100%;
@@ -49,9 +57,23 @@
     -webkit-filter: blur(2px);
 } */
 
-.title_text{
+/* .title_text{
     position: relative;
     margin-top: -42%;
+    margin-bottom: 25%;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center; */
+    /* background-color: rgb(0,0,0);  /* Fallback color */
+    /* background-color: rgba(0,0,0, 0.5); /* Black w/opacity/see-through */
+    /* transform: translate(0%, 50%);
+    z-index: 999;
+    color: white;
+  } */
+
+  .title_text{
+    position: absolute;
+    top: 50%;
     margin-bottom: 25%;
     margin-left: 10%;
     margin-right: 10%;
