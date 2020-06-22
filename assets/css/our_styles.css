@@ -49,6 +49,9 @@
 .page-header {
     filter: blur(6px);
     -webkit-filter: blur(6px);
+    -moz-filter: blur(6px);
+    -o-filter: blur(6px);
+    -ms-filter: blur(6px);
 }
 
 /* background blur */
@@ -73,7 +76,8 @@
 
   .title_text{
     position: absolute;
-    top: 50%;
+    /* top: 50%; */
+    bottom: 50%;
     margin-bottom: 25%;
     margin-left: 10%;
     margin-right: 10%;
@@ -83,6 +87,7 @@
     transform: translate(0%, 50%);
     z-index: 999;
     color: white;
+    box-sizing: border-box;
   }
 
   
