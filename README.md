@@ -19,6 +19,13 @@ Five students at Imperial College London following the third year of Biomedical 
 
 ## Best 2D + 3D volume & slice pics as header
 
+### 3D Segmentation plot
+{% include segmentation_plotly.html %}
+
+
+### Talbe plotly
+{% include plotly_table.html %}
+
 ## Our Project
 Cartilage segmentation plays a crucial role in tracking through time the effectiveness of drug treatment on osteoarthritis. For this purpose, Magnetic Resonance Imaging (MRI) is commonly used [1], allowing for a non-invasive approach.  However, manual segmentation of the latter is a labor-intensive process [2]. Automating this task would alleviate the practical obstacles to acquiring patient data and may soon become reality as novel deep learning approaches increasingly facilitate automatic image segmentation, potentially saving hospitals valuable resources [2, 3].
 
@@ -234,12 +241,7 @@ You can use the [editor on GitHub](https://github.com/Knee-Deep-in-MRI/Knee-Deep
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### 3D Segmentation plot
-{% include segmentation_plotly.html %}
 
-
-### Talbe plotly
-{% include plotly_table.html %}
 
 ### Markdown
 
